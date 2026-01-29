@@ -1,7 +1,7 @@
 # E-commerce-orders-analysis Python EDA
 E-commerce orders
 
-# E-commerce Orders Analysis (Case Study)
+# E-commerce Orders Analysis 
 
 
 **Tools**: Python, Pandas, NumPy, Matplotlib, Seaborn
